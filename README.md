@@ -80,15 +80,16 @@ A web application that enables citizens to report complaints while allowing auth
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shashankrawat1504&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankrawat1504&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Shashankrawat1504&theme=github-dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankrawat1504&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/shashankrawat15/)
+- 💼 **LinkedIn:** [Shashank Rawat](https://www.linkedin.com/in/shashankrawat15/)
 - 📧 **Email:** rawatshashank1504@gmail.com
 
 ---
+
+
