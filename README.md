@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank Rawat</h1>
 
 <h3 align="center">
-Final Year IT Engineering Student | Full Stack Developer | Learning AI, Machine Learning & Cloud
+Full Stack Developer • AI Enthusiast • Exploring Machine Learning, Deep Learning & Cloud
 </h3>
 
 ---
@@ -62,34 +62,59 @@ Final Year IT Engineering Student | Full Stack Developer | Learning AI, Machine 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+### 📚 Core Computer Science
+
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
+
 ---
 
 ## 🚀 Featured Projects
 
-### 💼 HireWise Recruitment Platform
-A full-stack recruitment platform with secure authentication, job posting, and application management for recruiters and job seekers.
+### 💼 HireWise – Recruitment Platform
 
-### 🚦 RoadCop – AI Traffic Violation Detection & E-Ticketing System
-An AI-powered traffic management system that detects traffic rule violations, identifies offending vehicles, and automatically generates e-tickets.
+A full-stack recruitment platform that enables recruiters to post and manage job listings while allowing job seekers to explore opportunities and apply securely.
 
-### 🏛️ Citizen Complaint Portal
-A web application that enables citizens to report complaints while allowing authorities to efficiently manage and resolve them.
+**Tech Stack:** JavaScript • Node.js • Express.js • MongoDB • Mongoose • JWT Authentication • REST APIs 
 
 ---
 
-## 📈 GitHub Stats
+### 🚦 RoadCop – AI Traffic Violation Detection & E-Ticketing System
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Shashankrawat1504&theme=github-dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankrawat1504&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+An AI-powered traffic management system that detects traffic rule violations, identifies offending vehicles, and automatically generates e-tickets to streamline traffic enforcement.
+
+**Tech Stack:** Python • OpenCV • YOLO • Flask • JavaScript
+
+---
+
+### 🏛️ Citizen Complaint Portal
+
+A web application that enables citizens to report municipal complaints while allowing authorities to efficiently track, manage, and resolve issues.
+
+**Tech Stack:** HTML • CSS • JavaScript • Node.js • Express.js • MongoDB
+
+---
+
+## 📚 Currently Learning
+
+- Deep Learning
+- Transformers & Large Language Models 
+- LangChain & RAG
+- Vector Databases
+- Docker
+- AWS Cloud
+
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** [Shashank Rawat](https://www.linkedin.com/in/shashankrawat15/)
+- 💻 **GitHub:** https://github.com/Shashankrawat1504
+- 💼 **LinkedIn:** https://www.linkedin.com/in/shashankrawat15/
 - 📧 **Email:** rawatshashank1504@gmail.com
 
 ---
 
-
+⭐ Thanks for visiting my GitHub profile! I'm always learning, building, and open to new opportunities.
